@@ -1,0 +1,7 @@
+com/affinipay/assignment/representation/UserResponseRepresentation.class
+com/affinipay/assignment/application/TimeDeltaApplication.class
+com/affinipay/assignment/resource/TimeDeltaResource.class
+com/example/helloworld/tasks/EchoTask.class
+com/affinipay/assignment/configuration/TimeDeltaConfiguration.class
+com/affinipay/assignment/representation/UserResponseExceptionRepresentation.class
+com/affinipay/assignment/representation/UserRequestRepresentation.class
